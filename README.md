@@ -24,5 +24,6 @@ How to detect anomalous activity in network flow/packet capture data
 - Cyberchef for decoding encrypeted scripts 
 
 ## Steps
-[Encryptodera Financial Solutions.txt](https://github.com/user-attachments/files/27002044/Encryptodera.Financial.Solutions.txt)
+[Encryptodera Financial Solutions.md](https://github.com/user-attachments/files/27104241/Encryptodera.Financial.Solutions.md)
+
 
